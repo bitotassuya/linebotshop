@@ -1,0 +1,3 @@
+Channel_secret='5e82717cde3ce6836a4c3f5312382680'
+Channel_access_token = 'e9cqRT4OaBOwxfO/Ux9Xy9axHLCQzaY00AWvIk+SSyoJV0ExzRiEVH2uzTJvy6ktimGvV8Y8SaRIaYDKqCzTsXt2kc4TCEee2gfzpv0V0aXPDj1pS3dVQIlZjrhE4BoUdlad9a2yUy3yfnAhdDreywdB04t89/1O/w1cDnyilFU='
+basic_ID = '@539riqpk'
